@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleNotification</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="longMsg">I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. </string>
+</resources>
